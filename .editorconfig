@@ -2,4 +2,4 @@ root = true
 
 [*]
 indent_style = space
-size = 2
+indent_size = 2
